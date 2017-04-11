@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name amp_parts)(type KiCad)(uri $KIPRJMOD/amp_parts.pretty)(options "")(descr ""))
+)
